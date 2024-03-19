@@ -1,11 +1,8 @@
-# React-Sorting-Articles
+# React: Sorting Articles  
 
-React: Sorting Articles
 Create a basic article sorting application, as shown below. Some core functionalities have already been implemented, but the application is not complete. Application requirements are given below, and the finished application must pass all of the unit tests.
 
-<p align="center">
-  <img src="https://github.com/vadym-usatiuk/React-Sorting-Articles/assets/51781534/dc90558a-6fe6-465d-9e62-fc01aa9ee33a" alt="Your Image Description">
-</p>
+![sorting-app](https://hrcdn.net/s3_pub/istreet-assets/YkVzgbGgMj0cfT9P97s8jg/sorting-articles.gif)
 
 The app has one component named Articles. The list of articles to be displayed is already provided in the app.
 
@@ -34,10 +31,13 @@ The following data-testid attributes are required in the component for the tests
 
 ## Environment 
 
-- React Version: 
+- React Version: 16.13.1
 - Default Port: 8000
 
 ## Project Specifications 
+
+**Read-Only Files**
+- `src/App.test.js`
 
 **Commands**
 - run: 
